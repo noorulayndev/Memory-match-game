@@ -5,12 +5,12 @@
 This is a **Memory Matching Flutter Game** developed as part of **COMP5450 Mobile Programming** at **Lakehead University**. The game challenges players to find matching pairs of animal images in a 4×5 grid layout, featuring smooth animations, responsive design, and an intuitive user interface.
 
 ### Key Features
-- 🎮 **Classic Memory Game**: Find all 10 matching pairs of animal cards
-- 🎨 **Beautiful UI**: Soft pastel color scheme with polished card designs
-- ✨ **Smooth Animations**: 3D card flip animations with 600ms duration
-- 📱 **Responsive Design**: Adaptive layout for phones and tablets
-- 🏆 **Score Tracking**: Real-time match counter in the app bar
-- 🔄 **Restart Functionality**: Easy game reset with premium button styling
+- **Classic Memory Game**: Find all 10 matching pairs of animal cards
+- **Beautiful UI**: Soft pastel color scheme with polished card designs
+- **Smooth Animations**: 3D card flip animations with 600ms duration
+- **Responsive Design**: Adaptive layout for phones and tablets
+- **Score Tracking**: Real-time match counter in the app bar
+- **Restart Functionality**: Easy game reset with premium button styling
 
 ## Project Structure
 
@@ -258,21 +258,19 @@ flutter run -d chrome --web-renderer html
 
 ## Project Requirements Met
 
-✅ **Flutter Framework**: Built with Flutter 3.5.0+
-✅ **Custom Widgets**: GameScreen with animated card components
-✅ **State Management**: Comprehensive game state handling
-✅ **Responsive Design**: Adaptive layouts for all screen sizes
-✅ **Asset Management**: Organized image assets with proper configuration
-✅ **Animation**: Smooth 3D card flip animations
-✅ **User Interface**: Polished, professional UI design
-✅ **Cross-Platform**: Supports Android, iOS, Web, and Windows
+**Flutter Framework**: Built with Flutter 3.5.0+
+**Custom Widgets**: GameScreen with animated card components
+**State Management**: Comprehensive game state handling
+**Responsive Design**: Adaptive layouts for all screen sizes
+**Asset Management**: Organized image assets with proper configuration
+**Animation**: Smooth 3D card flip animations
+**User Interface**: Polished, professional UI design
+**Cross-Platform**: Supports Android, iOS, Web, and Windows
 
 ## Contributors
 
 - **Course**: COMP5450 Mobile Programming
 - **Institution**: Lakehead University
-- **Semester**: [Add semester/year]
-- **Student**: [Add student name]
 
 ## License
 
